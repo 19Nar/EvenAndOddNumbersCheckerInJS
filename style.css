@@ -1,0 +1,9 @@
+.container{
+max-width: 600px;
+};
+.text{
+    text-align: center;
+}
+.form-group{
+border-color: black
+};
